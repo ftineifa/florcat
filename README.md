@@ -1,1 +1,6 @@
-# florcat
+- Hi, I'm Tai
+- I'm currently studying computer engineering
+- I chose my major because I want to contribute to my homeland and boost up it's technological system
+- A fun fact about me is:  I'm tired of talking lol kidding!!
+- What do I want to learn from EE 205?  I want to learn C++ language and make new friends
+- A book or movie I'd recommend is:  "the last song"
